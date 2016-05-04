@@ -4,6 +4,8 @@ UglifyJS 2
 
 UglifyJS is a JavaScript parser, minifier, compressor or beautifier toolkit.
 
+译：Uglifyjs是一个JavaScript解析器，缩小、压缩或美化工具包。
+
 This page documents the command line utility.  For
 [API and internals documentation see my website](http://lisperator.net/uglifyjs/).
 There's also an
@@ -11,6 +13,8 @@ There's also an
 Chrome and probably Safari).
 
 Install
+-------
+安装
 -------
 
 First make sure you have installed the latest version of [node.js](http://nodejs.org/)
